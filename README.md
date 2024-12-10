@@ -26,9 +26,9 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{SUHAILMD-2.0}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
 
 
-  <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet Allen Oberoii,🍃the ultimate AI-powered WhatsApp bot designed to take your experience to the next level! With a blend of intelligence, wit, and a dash of thrill, Allen is here to revolutionize the way you interact with technology.✨❤️ </p
   
-  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Garun69/Allen-Md/fork"><img title="Allen-Md" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
