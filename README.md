@@ -38,7 +38,7 @@
 
 1. ***Get [`SESSION🍃ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
-2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
+2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtube.com/curious_hacker).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Garun69//fork)***
    
 4.  #### DEPLOY IN HEROKU 
@@ -48,7 +48,7 @@
 --------
 5.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/SuhailTechInfo/suhailmd-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/Garuna69/Allen-Md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 6.  #### DEPLOY IN KOYEB
@@ -122,10 +122,10 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="919034941583"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
+      THUMB_IMAGE = "https://i.postimg.cc/hjQHc9b9/qris.jpg"
+      OWNER_NAME = "Allen"
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"
@@ -201,9 +201,9 @@ npm start
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Allen-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Allen-Md at your own risk by keeping this warning in mind.*
  
 
 - Star ⭐ repo if you like this bot.
