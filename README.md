@@ -28,7 +28,7 @@
 
   <p align="center"> Meet Allen Oberoii,🍃the ultimate AI-powered WhatsApp bot designed to take your experience to the next level! With a blend of intelligence, wit, and a dash of thrill, Allen is here to revolutionize the way you interact with technology.✨❤️ </p
   
-  <a href="https://github.com/Garun69/Allen-Md/fork"><img title="Allen-Md" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Garun69/Allen-Md/fork"><img title="Allen-Md" src="https://img.shields.io/badge/FORK-Allen-Md-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
