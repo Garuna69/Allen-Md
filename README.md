@@ -26,9 +26,8 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{SUHAILMD-2.0}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
 
 
-  <p align="center"> Meet Allen Oberoii,🍃the ultimate AI-powered WhatsApp bot designed to take your experience to the next level! With a blend of intelligence, wit, and a dash of thrill, Allen is here to revolutionize the way you interact with technology.✨❤️ </p
-  
-  <a href="https://github.com/Garun69/Allen-Md/fork"><img title="Allen-Md" src="?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <p align="center"> Meet Allen Oberoii,🍃the ultimate AI-powered WhatsApp bot designed to take your experience to the next level! With a blend of intelligence, wit, and a dash of thrill, Allen is here to revolutionize the way you interact with technology.✨❤️ </p>
+
 
 
  
@@ -37,10 +36,10 @@
 ## Deployment Methods
 ---
 
-1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION🍃ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/SuhailTechInfo/suhailmd-2.0/fork)***
+3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Garun69//fork)***
    
 4.  #### DEPLOY IN HEROKU 
 
