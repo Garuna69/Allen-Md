@@ -15,7 +15,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/suhailBotInc" target="_blank">
+  <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029Vaf78QkBA1evbzjbGO39" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
