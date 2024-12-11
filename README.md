@@ -142,7 +142,7 @@
       To stop bot ``` npm stop ```
 
 ### TUTORIAL FOR TERMUX/UBUNTU
-<a href="https://youtube.com/suhailtechinfo"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/suhailtechinfo" /><br>
+<a href="https://youtube.com/suhailtechinfo"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/Garun69" /><br>
 
 --------
 
@@ -185,7 +185,7 @@ sudo yarn global add pm2
 _Before Cloning It,Make Sure Get Session ID Via Pairing Or Scanning.Add Session ID And Owner Number In config.env And config.js.This Process Can Be Done In Fork Only.After That Clone The Fork And Execute Remaining Commands._
 
 ```
-git clone https://github.com/SuhailTechInfo/suhailmd-2.0
+git clone https://github.com se
 ```
 ```
 cd suhailmd-2.0
