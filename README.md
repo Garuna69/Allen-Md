@@ -1,6 +1,6 @@
 # ALLEN-MD (V2)
 <p align="center">
-<a href="https://github.com/Garun69"><img title="Author" src="https://i.postimg.cc/hjQHc9b9/qris.jpg"></a>
+<a href="https://github.com/Garun69"><img title="Author" src="https://i.postimg.cc/hGbxMP35/IMG-20241211-WA0045.jpg"></a>
 
 
   <p align="center">
