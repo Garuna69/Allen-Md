@@ -75,7 +75,7 @@ module.exports = {
   caption : global.caption || "💧⃟❤️‍🩹✨⃝𝑨𝑳𝑳𝑬𝑵 𝑶𝑩𝑬𝑹𝑶𝑰𝑰✨⃝🐦‍🔥" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
   author : process.env.PACK_AUTHER|| "🍃",
-  packname: process.env.PACK_NAME || ""⏤͟͟͞➣⃟⃟🖤Ꮓᴀʀᴀ~ ⃟⃟⃟⃟🦇",
+  packname: process.env.PACK_NAME || "⏤͟͟͞➣⃟⃟🖤Ꮓᴀʀᴀ~ ⃟⃟⃟⃟🦇",
   botname : process.env.BOT_NAME  || "❤‍🩹𝚯𝚪𝚰𝚴💸",
   ownername:process.env.OWNER_NAME|| "Allen",
 
