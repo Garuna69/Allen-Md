@@ -25,8 +25,8 @@ global.caption = process.env.CAPTION || global.caption || "© SuhailTechInfo"
 
 
 global.devs = "" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "917549293068,919034941583";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "917549293068,919034941583";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "917029520656,919034941583,918318542882";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "917029520656,919034941583,918318542882";
 
 
 
